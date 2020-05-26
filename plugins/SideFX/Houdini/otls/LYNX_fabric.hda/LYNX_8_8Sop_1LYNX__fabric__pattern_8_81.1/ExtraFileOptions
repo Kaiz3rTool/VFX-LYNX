@@ -21,7 +21,7 @@
 	},
 	"OnCreated/Cursor":{
 		"type":"intarray",
-		"value":[10,1]
+		"value":[16,107]
 	},
 	"OnCreated/IsExpr":{
 		"type":"bool",
@@ -41,7 +41,7 @@
 	},
 	"OnInputChanged/Cursor":{
 		"type":"intarray",
-		"value":[5,48]
+		"value":[6,48]
 	},
 	"OnInputChanged/IsExpr":{
 		"type":"bool",
